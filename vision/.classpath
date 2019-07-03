@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/Vision API/animal-sniffer-annotations-1.17.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/annotations-4.1.1.4.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/api-common-1.8.1.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/checker-compat-qual-2.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/error_prone_annotations-2.2.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/gax-1.46.1.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/gax-grpc-1.46.1.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/google-auth-library-credentials-0.16.2.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/google-auth-library-oauth2-http-0.15.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/google-cloud-core-1.80.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/google-cloud-core-grpc-1.80.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/google-cloud-vision-1.80.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/google-http-client-1.30.1.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/google-http-client-jackson2-1.29.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/grpc-alts-1.21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/grpc-api-1.21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/grpc-auth-1.21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/grpc-context-1.21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/grpc-core-1.21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/grpc-grpclb-1.21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/grpc-netty-shaded-1.21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/grpc-protobuf-1.21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/grpc-protobuf-lite-1.21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/grpc-stub-1.21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/guava-27.1-android.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/httpclient-4.5.8.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/jackson-core-2.9.6.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/javax.annotation-api-1.3.2.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/opencensus-api-0.21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/opencensus-contrib-grpc-metrics-0.21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/opencensus-contrib-http-util-0.21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/protobuf-java-3.7.1.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/protobuf-java-util-3.7.1.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/proto-google-cloud-vision-v1-1.62.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/proto-google-cloud-vision-v1p1beta1-0.63.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/proto-google-cloud-vision-v1p2beta1-1.62.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/proto-google-cloud-vision-v1p3beta1-0.63.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/proto-google-cloud-vision-v1p4beta1-0.63.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/proto-google-common-protos-1.16.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/proto-google-iam-v1-0.12.0.jar"/>
+	<classpathentry kind="lib" path="F:/Vision API/threetenbp-1.3.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
